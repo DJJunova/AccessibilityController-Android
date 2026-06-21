@@ -1,0 +1,5 @@
+# Ce dépôt ne contient QUE les versions compilées (APK), distribuées via les Releases.
+# Le code source de l'application n'est PAS publié ici : tout est ignoré sauf le README.
+/*
+!/.gitignore
+!/README.md
